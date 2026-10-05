@@ -7,7 +7,7 @@ Indianapolis, IN
 
 ### Focus
 
-Open bug reports in interpretability libraries: reproduce on current main, find the fix or the cause, close them out. CUDA on Windows.
+Open-source contributor, AI. Python now; C++ and CUDA kernels next.
 
 ---
 
