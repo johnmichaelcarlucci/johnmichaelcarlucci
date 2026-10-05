@@ -1,6 +1,6 @@
 # John Michael Carlucci
 
-Interpretability tooling in Python: SAELens, circuit-tracer, TransformerLens.
+Interpretability tooling. Python.
 Indianapolis, IN
 
 ---
