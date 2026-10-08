@@ -1,6 +1,6 @@
 # John Michael Carlucci
 
-Interpretability tooling. Python.
+Open-source ML. Interpretability, PyTorch. Python, C++.
 Indianapolis, IN
 
 ---
