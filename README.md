@@ -1,9 +1,5 @@
 # John Michael Carlucci
 
-Open-source AI. Interpretability. Python, C++, CUDA kernels.
-
----
-
 ### Open-source contributions
 
 #### Bug reports
