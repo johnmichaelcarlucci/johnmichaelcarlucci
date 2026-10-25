@@ -1,13 +1,6 @@
 # John Michael Carlucci
 
-Open-source ML. Interpretability, PyTorch. Python, C++.
-Indianapolis, IN
-
----
-
-### Focus
-
-Open-source contributor, AI. Python now; C++ and CUDA kernels next.
+Open-source AI. Interpretability. Python, C++, CUDA kernels.
 
 ---
 
